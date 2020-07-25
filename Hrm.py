@@ -52,6 +52,12 @@ class Hrm:
 		db.storing_user_details(self.doctor_details)
 
 
+
+
+
+
+
+
 hrm = Hrm()
 hrm.ask_for_user_choice()
 
